@@ -98,7 +98,7 @@ npm run dev
 ## 📧 Contact
 For queries or contributions, feel free to reach out:
 - **Saurabh Kumar**  
-- Email: [iec2023016@](mailto:iec2023016@)
+- Email: [iiitiansaurabh@gmail.com](mailto:iiitiansaurabh@gmail.com)
 - LinkedIn: [Saurabh Kumar](https://www.linkedin.com/in/saurabh-kumar-0963)
 
 ---
