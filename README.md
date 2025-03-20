@@ -91,7 +91,8 @@ npm run dev
 2. Create a new branch (`git checkout -b feature-name`).
 3. Commit your changes (`git commit -m "Add new feature"`).
 4. Push to your branch (`git push origin feature-name`).
-5. Create a pull request.
+5. Create a pull request.![256502271-ff0097b9-8feb-462f-83dc-4ecac12ae5ac (1)](https://github.com/user-attachments/assets/fee59f23-b23b-4f26-bc8e-48ff45a0ae6c)
+
 
 ---
 
