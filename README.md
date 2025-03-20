@@ -5,6 +5,7 @@ A comprehensive platform designed to streamline the placement process for Amity 
 ---
 ![256502271-ff0097b9-8feb-462f-83dc-4ecac12ae5ac (1)](https://github.com/user-attachments/assets/fee59f23-b23b-4f26-bc8e-48ff45a0ae6c)
 
+
 ## 🚀 Features
 - 📋 **Job Listings Management**: Easy posting, updating, and tracking of job opportunities.
 - 🎯 **Student Dashboard**: Personalized dashboard for students to manage applications and view results.
@@ -13,6 +14,7 @@ A comprehensive platform designed to streamline the placement process for Amity 
 - 📊 **Admin Portal**: Manage users, job posts, and analytics efficiently.
 
 ---
+![256502156-30759e8e-1dd8-4f26-b301-71ff88ecb4fc](https://github.com/user-attachments/assets/ce3e0bf7-3eca-46e4-952d-aa9f2a7fe97c)
 
 ## 📂 Folder Structure
 
