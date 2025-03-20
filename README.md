@@ -3,6 +3,7 @@
 A comprehensive platform designed to streamline the placement process for Amity University students. This portal simplifies job postings, student applications, and company interactions to ensure a seamless experience for all stakeholders.
 
 ---
+![256502271-ff0097b9-8feb-462f-83dc-4ecac12ae5ac (1)](https://github.com/user-attachments/assets/fee59f23-b23b-4f26-bc8e-48ff45a0ae6c)
 
 ## 🚀 Features
 - 📋 **Job Listings Management**: Easy posting, updating, and tracking of job opportunities.
