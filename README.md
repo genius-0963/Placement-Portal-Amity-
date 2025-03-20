@@ -45,6 +45,7 @@ Placement-Portal-Amity/
 ├── package.json
 └── yarn.lock
 ```
+![256502322-d1af53ef-8b61-4f74-b88e-7361c629078b](https://github.com/user-attachments/assets/19049b70-cb45-43af-bb3b-22c9d7a70512)
 
 ---
 
